@@ -23,18 +23,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/age-24-blue?style=flat-square" alt="Age: 24" />
+  <img src="https://img.shields.io/badge/age-23-blue?style=flat-square" alt="Age: 23" />
   <img src="https://img.shields.io/badge/focus-FullStack-brightgreen?style=flat-square" alt="Focus: FullStack" />
 </p>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=jd316&label=Profile%20views&color=0e75b6&style=flat" alt="view count"  height="25px"/>
+    <img src="https://img.shields.io/badge/Profile%20views-4139-0e75b6?style=flat" alt="view count" />
 </div>
 
-<p align="center">
+<h5 align="center">
 🛜 Currently working on my live project https://mazakiya-ai.com<br> 
 👨🏼‍💻 Working as an AI/ML Developer since 2024 at https://anything.ai<br>
-</p>
+</h5>
 
 <p align="center">
 <picture>
