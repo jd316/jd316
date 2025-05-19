@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  AI/ML • Web3 Developer • Business Analyst • MBA • B.Sc. CS • India 🇮🇳
+  AI/ML & Web3 Developer • Business Analyst • MBA • B.Sc. CS • India 🇮🇳
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-🛜 Currently working on my live project https://mazakiya-ai.com <br> 
-  👨🏼‍💻 Working at https://anything.ai as an AI/ML Developer since 2024 <br>
+🛜 Currently working on my live project https://mazakiya-ai.com<br> 
+  👨🏼‍💻 Working as an AI/ML Developer since 2024 at https://anything.ai<br>
 </p>
 
 <p align="center">
