@@ -27,9 +27,13 @@
   <img src="https://img.shields.io/badge/focus-FullStack-brightgreen?style=flat-square" alt="Focus: FullStack" />
 </p>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=jd316&label=Profile%20views&color=0e75b6&style=flat" alt="view count"  height="25px"/>
+</div>
+
 <p align="center">
 🛜 Currently working on my live project https://mazakiya-ai.com<br> 
-  👨🏼‍💻 Working as an AI/ML Developer since 2024 at https://anything.ai<br>
+👨🏼‍💻 Working as an AI/ML Developer since 2024 at https://anything.ai<br>
 </p>
 
 <p align="center">
