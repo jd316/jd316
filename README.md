@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/jdb316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@jdbiswas2019" target="_blank">
+  <a href="https://www.youtube.com/@MazakiyaAI" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
