@@ -38,16 +38,16 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jd316/jd316/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jd316/jd316/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jd316/jd316/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jd316/jd316@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jd316/jd316@output/github-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jd316/jd316@output/github-snake.svg" />
 </picture>
 </p>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jd316&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jd316&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jd316&radius=16&theme=synthwave-84&area=true&order=5&hide_border=false" height="238" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=jd316&locale=en&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=true&hide_title=true&order=2" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jd316&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jd316&radius=16&theme=synthwave-84&area=true&hide_title=true&hide_border=true&order=5" alt="activity-graph graph"  />
 </div>
