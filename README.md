@@ -119,10 +119,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Quick Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jd316&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&hide_border=true" alt="Quick Stats" />
 </p>
 
 ---
