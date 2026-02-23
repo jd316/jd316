@@ -61,7 +61,7 @@
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=jd316&locale=en&layout=donut&langs_count=6&theme=dracula&hide_border=true&hide_title=true&card_width=400" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=reviews,discussions_started,discussions_answered&theme=dracula&hide_border=true&hide_title=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36&card_width=400" alt="Community Stats" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=total_contributions,total_commits,total_prs&theme=dracula&hide_border=true&hide_title=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36&card_width=400" alt="Contribution Stats" width="100%" />
     </td>
   </tr>
 </table>
