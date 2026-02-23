@@ -122,7 +122,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jd316&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jd316&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ---
@@ -152,10 +152,13 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/images/footer.png" alt="Footer" />
-  <p>
-    <img src="https://media.giphy.com/media/jpVnC65DmYeyRLYLHn/giphy.gif" width="25" />
-    Thanks for visiting my profile!
-    <img src="https://media.giphy.com/media/jpVnC65DmYeyRLYLHn/giphy.gif" width="25" />
-  </p>
+
+### 💬 Let's Connect!
+
+<p>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRLYLHn/giphy.gif" width="25" />
+  Thanks for visiting my profile! Let's build something amazing together.
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRLYLHn/giphy.gif" width="25" />
+</p>
+
 </div>
