@@ -38,33 +38,30 @@
 
 ---
 
-## 📊 Stats & Activity
+## 📊 Stats Dashboard
 
-<!-- Bento Box Grid Layout -->
+<!-- Bentobox Grid - Row 1 -->
 <table>
   <tr>
-    <!-- GitHub Stats -->
-    <td width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="GitHub Stats" height="180" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36&card_width=400" alt="GitHub Stats" width="100%" />
     </td>
-    <!-- Streak Stats -->
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=jd316&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20%5Dj&order=3&card_width=500&fire=FF9900&currStreakLabel=FF9900&sideLabels=FF9900" alt="GitHub Streak" height="180" />
+        <img src="https://streak-stats.demolab.com?user=jd316&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20%5Dj&card_width=400&fire=FF9900&currStreakLabel=FF9900&sideLabels=FF9900" alt="GitHub Streak" width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
+<!-- Bentobox Grid - Row 2 -->
 <table>
   <tr>
-    <!-- Top Languages -->
-    <td width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=jd316&locale=en&layout=donut-vertical&langs_count=6&theme=dracula&hide_border=true&hide_title=true&order=2&card_width=320" alt="Top Languages" height="220" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=jd316&locale=en&layout=donut&langs_count=6&theme=dracula&hide_border=true&hide_title=true&card_width=400" alt="Top Languages" width="100%" />
     </td>
-    <!-- Quick Stats -->
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&hide_border=true&hide_title=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Quick Stats" height="180" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=prs_merged,prs_merged_percentage&theme=dracula&hide_border=true&hide_title=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36&card_width=400" alt="PR Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -84,7 +81,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jd316&radius=16&theme=dracula&area=true&hide_title=true&hide_border=true&order=5&line=bd93f9&point=ff79c6" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jd316&radius=16&theme=dracula&area=true&hide_title=true&hide_border=true&line=bd93f9&point=ff79c6" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
