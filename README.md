@@ -62,9 +62,9 @@
     <td width="50%">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=jd316&locale=en&layout=donut-vertical&langs_count=6&theme=dracula&hide_border=true&hide_title=true&order=2&card_width=320" alt="Top Languages" height="220" />
     </td>
-    <!-- Contribution Graph -->
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jd316&radius=16&theme=dracula&area=true&hide_title=true&hide_border=true&order=5&line=bd93f9&point=ff79c6&height=220" alt="Contribution Graph" height="220" />
+    <!-- Quick Stats -->
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&hide_border=true&hide_title=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Quick Stats" height="180" />
     </td>
   </tr>
 </table>
@@ -78,6 +78,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jd316/jd316@output/github-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/jd316/jd316@output/github-snake.svg" width="100%" />
 </picture>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jd316&radius=16&theme=dracula&area=true&hide_title=true&hide_border=true&order=5&line=bd93f9&point=ff79c6" alt="Contribution Graph" width="100%" />
+</p>
 
 ---
 
@@ -116,14 +124,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🎯 Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jd316&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&hide_border=true" alt="Quick Stats" />
-</p>
 
 ---
 
